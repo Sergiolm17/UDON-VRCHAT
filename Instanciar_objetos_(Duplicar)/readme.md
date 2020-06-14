@@ -1,0 +1,21 @@
+# Instanciar objetos
+
+## START
+
+<details><summary>Code</summary>
+
+```
+AM1V3U7bMBh9lcrXcWUnbuxU4mbAEJr2owG5GVVkO19QttSZ8sPo2j4ZF3ukvcKclqalKVLEQELthfPZTs45Pufz3/s/c3QrsxrQ+NscJXWWfZJT+4BCWaRSZRBdmbSanZqb1MCZnfqsvoOukIPqNLbLpKCJL7jCylUuZp4WWDHCcKBVQiXx+MjndvHPvEyrNDdoPEd3aIw9lw2Jg2Z26LpiSJYOMnkMV+cnpQWC7I7tf+KgJMt/PcxN1ivDBnO5Al03ANewwjWTOUpNWUmj4fwEjZuXl1WRmpuHaYSWznO2XczKCqbDi1XRGUxLnRdZqpxBCEVpyR1ZTs3PGRzXWVUXcGSgrgqZOYMvtcpS/QFml/kPMEeKcznSI58GHgMigsVW2Y3u/4fxXZ5nIM3Lgrws6rcI673MyufiQstJs3HH96e3YKroopLF1uQqBqUDmmBfuBwzP3axkInC4CXW5ILzxE8OmNwlrckF2/f4Y1cjToSEwA1wTAnBLOaAhZd42B+NpKuVFK4gaN/7+9jDr8fnK7pVKisYRtHOU3Q4yE+UW+q9cHWpi5Y5dzvphsDngY09VpLad1JfYyF8grX0gQGjiuhkQfZyj5QnAyDUw5oKaTsNaXqOZpgSkIQFPKEaOgq9jCfOoIraXG6U6cPiUOdrpSHdtvfyre4Ve1av1t/R8qDdrFVvrMb2u6ZM8mL6yJWXm2orPVVMSC4CDIG1IuOKYjXyBA6kpp5LNdHk0KXTKs+6N04fn3c8+TpuO0TdClRagTaMHukT2o/lhRdF67MOc6tR27n6hKajlNcI9GR8+6i/IG/q5t5Ra/gglzPYLR7nBXzM4zqDbTJI32QYe3aL+TW6u16F2rlGMzuiq9HvdW3ZHPNk+Q8=
+```
+
+</details>
+
+![Image](Instanciar_start.PNG)
+
+## Unity
+
+![Image](Instanciar_unity.PNG)
+
+## VrChat
+
+![Image](Instanciar_vrchat.PNG)
