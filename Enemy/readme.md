@@ -30,3 +30,7 @@ AOVY204bVxT9FTTP3ujcL0h5aEIURWnaqBC/VMg6l32SaQYPssdJEcmX9aGf1F/oNjYGMhM6bZOUqCAB
 ## TEST
 
 ![Alt Text](Enemy_video.gif)
+
+## Configuración
+
+![Image](Config.PNG)
